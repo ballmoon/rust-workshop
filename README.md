@@ -33,16 +33,3 @@ Follow the instructions there to get started.
   - [RustRover](https://www.jetbrains.com/rust/);
   - [Visual Studio Code](https://code.visualstudio.com) with the [`rust-analyzer`](https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer) extension.
 
-## Solutions
-
-You can find the solutions to the exercises in the [`solutions` branch](https://github.com/mainmatter/rust-telemetry-workshop/tree/solutions) of this repository.
-
-## References
-
-Throughout the workshop, the following resources might turn out to be useful:
-
-- [Rust Book](https://doc.rust-lang.org/book/)
-- [Rust documentation](https://doc.rust-lang.org/std/) (you can also open the documentation offline with `rustup doc`!)
-- [`tracing`'s documentation](https://docs.rs/tracing)
-- [`metrics`' documentation](https://docs.rs/metrics)
-
