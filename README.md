@@ -46,7 +46,3 @@ Throughout the workshop, the following resources might turn out to be useful:
 - [`tracing`'s documentation](https://docs.rs/tracing)
 - [`metrics`' documentation](https://docs.rs/metrics)
 
-# License
-
-Copyright © 2023- Mainmatter GmbH (https://mainmatter.com), released under the
-[Creative Commons Attribution-NonCommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/).
